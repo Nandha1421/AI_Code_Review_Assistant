@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+pytest
+flake8
+bandit
+sentence-transformers
+requests
+chromadb
+langchain
+transformers
+
